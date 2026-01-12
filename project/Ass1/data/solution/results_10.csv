@@ -1,0 +1,6 @@
+instance,n,time_limit,status,obj_value,solving_time
+instance_10_5.dat,10,1,OPTIMAL,392.784,0.152213,0-8-5-3-6-2-4-7-9-1-0
+instance_10_2.dat,10,1,OPTIMAL,422.244,0.105147,0-9-1-7-4-6-2-5-8-3-0
+instance_10_3.dat,10,1,OPTIMAL,400.679,0.146378,0-8-7-1-2-6-4-3-5-9-0
+instance_10_4.dat,10,1,OPTIMAL,406.641,0.138284,0-8-1-6-2-3-4-5-7-9-0
+instance_10_1.dat,10,1,OPTIMAL,388.838,0.0840309,0-3-6-2-8-7-5-1-9-4-0

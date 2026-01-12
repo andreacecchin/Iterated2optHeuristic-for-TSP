@@ -1,0 +1,287 @@
+andcecch@labta:~/Documents/Ass1$ ./project 10
+Processing instance: instance_10_5.dat
+  Time limit: 1s
+  OPTIMAL solution found with objValue 392.784 with solving time (sec) 0.152213
+  Solution (Tour): 0 8 5 3 6 2 4 7 9 1 0
+Processing instance: instance_10_2.dat
+  Time limit: 1s
+  OPTIMAL solution found with objValue 422.244 with solving time (sec) 0.105147
+  Solution (Tour): 0 9 1 7 4 6 2 5 8 3 0
+Processing instance: instance_10_3.dat
+  Time limit: 1s
+  OPTIMAL solution found with objValue 400.679 with solving time (sec) 0.146378
+  Solution (Tour): 0 8 7 1 2 6 4 3 5 9 0
+Processing instance: instance_10_4.dat
+  Time limit: 1s
+  OPTIMAL solution found with objValue 406.641 with solving time (sec) 0.138284
+  Solution (Tour): 0 8 1 6 2 3 4 5 7 9 0
+Processing instance: instance_10_1.dat
+  Time limit: 1s
+  OPTIMAL solution found with objValue 388.838 with solving time (sec) 0.0840309
+  Solution (Tour): 0 3 6 2 8 7 5 1 9 4 0
+andcecch@labta:~/Documents/Ass1$ ./project 20
+Processing instance: instance_20_1.dat
+  Time limit: 1s
+  OPTIMAL solution found with objValue 429.236 with solving time (sec) 0.448622
+  Solution (Tour): 0 12 14 16 9 3 17 13 7 15 2 8 6 1 18 11 10 19 4 5 0
+Processing instance: instance_20_4.dat
+  Time limit: 1s
+  OPTIMAL solution found with objValue 471.405 with solving time (sec) 0.324841
+  Solution (Tour): 0 7 1 5 8 18 16 10 2 11 17 6 4 14 15 3 9 19 12 13 0
+Processing instance: instance_20_3.dat
+  Time limit: 1s
+  OPTIMAL solution found with objValue 451.699 with solving time (sec) 0.313075
+  Solution (Tour): 0 14 8 16 13 18 1 17 9 5 19 2 11 10 15 6 3 4 12 7 0
+Processing instance: instance_20_2.dat
+  Time limit: 1s
+  OPTIMAL solution found with objValue 444.603 with solving time (sec) 0.52091
+  Solution (Tour): 0 15 10 9 14 6 1 17 12 11 19 2 18 16 13 5 8 3 4 7 0
+Processing instance: instance_20_5.dat
+  Time limit: 1s
+  OPTIMAL solution found with objValue 435.221 with solving time (sec) 0.274737
+  Solution (Tour): 0 18 17 15 3 13 16 14 10 2 8 4 9 6 5 1 11 7 12 19 0
+andcecch@labta:~/Documents/Ass1$ ./project 30
+Processing instance: instance_30_2.dat
+  Time limit: 1s
+  OPTIMAL solution found with objValue 513.129 with solving time (sec) 0.884817
+  Solution (Tour): 0 10 8 18 15 20 7 29 25 23 21 9 12 3 5 6 19 2 13 11 16 24 22 26 1 28 27 14 4 17 0
+Processing instance: instance_30_5.dat
+  Time limit: 1s
+  Time limit reached (feasible solution with objValue 555.863 )
+  Time limit: 10s
+  OPTIMAL solution found with objValue 501.052 with solving time (sec) 1.36678
+  Solution (Tour): 0 21 22 19 13 8 17 11 28 1 9 27 23 15 6 18 2 25 5 7 26 4 16 24 12 14 3 20 29 10 0
+Processing instance: instance_30_4.dat
+  Time limit: 1s
+  Time limit reached (feasible solution with objValue 525.466 )
+  Time limit: 10s
+  OPTIMAL solution found with objValue 493.53 with solving time (sec) 1.23403
+  Solution (Tour): 0 4 15 21 19 3 7 11 28 6 25 17 12 9 23 16 26 5 8 22 27 29 2 13 14 1 24 18 10 20 0
+Processing instance: instance_30_3.dat
+  Time limit: 1s
+  OPTIMAL solution found with objValue 496.506 with solving time (sec) 0.9717
+  Solution (Tour): 0 12 18 19 29 16 25 20 3 26 15 22 13 28 10 6 4 27 8 2 17 5 9 11 24 21 23 1 7 14 0
+Processing instance: instance_30_1.dat
+  Time limit: 1s
+  OPTIMAL solution found with objValue 471.068 with solving time (sec) 0.511647
+  Solution (Tour): 0 13 22 25 7 12 15 3 8 28 5 6 24 26 16 9 10 23 21 20 29 2 14 11 4 19 18 17 1 27 0
+andcecch@labta:~/Documents/Ass1$ ./project 50
+Processing instance: instance_50_4.dat
+  Time limit: 1s
+  Time limit reached (feasible solution with objValue 2349.41 )
+  Time limit: 10s
+  Time limit reached (feasible solution with objValue 597.154 )
+  Time limit: 20s
+  OPTIMAL solution found with objValue 578.867 with solving time (sec) 12.9061
+  Solution (Tour): 0 34 41 29 45 7 5 15 8 21 35 17 12 11 19 30 37 4 6 3 33 32 16 27 2 47 14 22 20 10 39 38 46 25 1 44 13 48 31 28 43 24 40 36 18 23 42 9 26 49 0
+Processing instance: instance_50_3.dat
+  Time limit: 1s
+  Time limit reached (feasible solution with objValue 2375.73 )
+  Time limit: 10s
+  OPTIMAL solution found with objValue 583.408 with solving time (sec) 9.88767
+  Solution (Tour): 0 19 13 39 14 9 10 31 5 7 28 1 27 36 45 35 17 40 32 26 12 42 16 46 2 34 15 23 48 11 24 4 6 8 18 44 30 41 3 49 22 43 47 33 21 38 25 29 37 20 0
+Processing instance: instance_50_2.dat
+  Time limit: 1s
+  Time limit reached (feasible solution with objValue 2347.75 )
+  Time limit: 10s
+  Time limit reached (feasible solution with objValue 573.501 )
+  Time limit: 20s
+  OPTIMAL solution found with objValue 569.8 with solving time (sec) 13.8022
+  Solution (Tour): 0 6 7 22 14 8 27 44 40 31 46 35 38 41 21 1 26 20 23 30 9 16 24 32 13 42 17 2 5 12 4 15 25 49 18 29 10 3 37 36 33 28 39 11 45 34 19 48 43 47 0
+Processing instance: instance_50_5.dat
+  Time limit: 1s
+  Time limit reached (feasible solution with objValue 808.072 )
+  Time limit: 10s
+  OPTIMAL solution found with objValue 603.217 with solving time (sec) 5.63443
+  Solution (Tour): 0 19 48 7 11 47 25 33 22 3 39 30 45 12 23 24 35 4 15 43 2 37 27 44 8 20 42 1 34 36 10 21 40 14 13 49 16 46 32 18 41 28 9 5 17 38 6 29 31 26 0
+Processing instance: instance_50_1.dat
+  Time limit: 1s
+  Time limit reached (feasible solution with objValue 2383.75 )
+  Time limit: 10s
+  Time limit reached (feasible solution with objValue 611.671 )
+  Time limit: 20s
+  OPTIMAL solution found with objValue 606.134 with solving time (sec) 11.9816
+  Solution (Tour): 0 26 13 36 16 38 20 21 10 5 29 44 34 17 1 7 22 11 41 40 31 2 6 4 30 14 28 18 33 19 48 25 37 35 46 9 43 24 27 49 3 15 42 47 12 45 39 32 23 8 0
+andcecch@labta:~/Documents/Ass1$ ./project 70
+Processing instance: instance_70_3.dat
+  Time limit: 1s
+  Time limit reached (feasible solution with objValue 3360.07 )
+  Time limit: 10s
+  Time limit reached (feasible solution with objValue 751.438 )
+  Time limit: 20s
+  OPTIMAL solution found with objValue 677.499 with solving time (sec) 17.4976
+  Solution (Tour): 0 15 31 66 22 35 32 51 21 19 42 64 20 18 1 62 39 24 53 50 25 68 7 36 38 45 27 60 2 46 5 23 26 67 14 40 58 34 11 10 57 61 12 54 33 52 29 9 43 4 28 63 44 47 30 69 6 17 16 3 8 49 41 13 55 59 48 65 37 56 0
+Processing instance: instance_70_4.dat
+  Time limit: 1s
+  Time limit reached (feasible solution with objValue 3530.73 )
+  Time limit: 10s
+  Time limit reached (feasible solution with objValue 824.634 )
+  Time limit: 20s
+  Time limit reached (feasible solution with objValue 824.634 )
+  Time limit: 30s
+  Time limit reached (feasible solution with objValue 824.634 )
+  Time limit: 60s
+  Time limit reached (feasible solution with objValue 741.674 )
+  Time limit: 90s
+  OPTIMAL solution found with objValue 693.402 with solving time (sec) 78.4773
+  Solution (Tour): 0 59 11 47 27 36 39 52 8 32 12 67 35 28 3 60 16 20 4 62 63 51 46 18 6 40 2 44 69 10 25 56 15 30 22 31 17 14 29 65 26 54 49 64 53 66 41 21 42 33 45 7 50 58 38 19 57 1 5 23 13 68 55 61 37 43 48 9 34 24 0
+Processing instance: instance_70_5.dat
+  Time limit: 1s
+  Time limit reached (feasible solution with objValue 3583.18 )
+  Time limit: 10s
+  Time limit reached (feasible solution with objValue 725.661 )
+  Time limit: 20s
+  Time limit reached (feasible solution with objValue 682.817 )
+  Time limit: 30s
+  OPTIMAL solution found with objValue 680.383 with solving time (sec) 24.465
+  Solution (Tour): 0 65 23 18 10 15 34 61 35 46 62 48 4 41 58 39 47 68 66 57 8 42 54 59 21 24 26 40 3 38 14 69 32 7 5 44 12 9 2 25 37 43 30 45 67 17 36 55 52 33 51 19 27 1 64 16 29 6 22 63 20 11 49 56 60 53 31 13 50 28 0
+Processing instance: instance_70_2.dat
+  Time limit: 1s
+  Time limit reached (feasible solution with objValue 3445.83 )
+  Time limit: 10s
+  OPTIMAL solution found with objValue 666.342 with solving time (sec) 6.89036
+  Solution (Tour): 0 15 51 17 48 68 57 64 52 38 67 41 25 37 3 32 43 28 42 39 13 66 7 45 19 22 18 56 50 6 8 60 30 53 2 26 63 14 11 69 9 34 58 21 10 47 23 1 61 20 44 49 65 62 35 55 5 24 16 59 54 31 33 29 4 12 40 46 36 27 0
+Processing instance: instance_70_1.dat
+  Time limit: 1s
+  Time limit reached (feasible solution with objValue 3418.62 )
+  Time limit: 10s
+  Time limit reached (feasible solution with objValue 767.405 )
+  Time limit: 20s
+  OPTIMAL solution found with objValue 674.359 with solving time (sec) 18.6599
+  Solution (Tour): 0 11 59 9 67 52 17 29 20 23 51 54 40 37 62 24 68 69 21 7 6 35 55 49 53 1 16 38 4 36 10 58 14 27 45 12 63 32 2 48 46 15 18 19 39 3 25 26 66 64 22 33 60 41 28 31 44 57 47 65 43 13 30 56 42 34 61 5 8 50 0
+andcecch@labta:~/Documents/Ass1$ ./project 80
+Processing instance: instance_80_4.dat
+  Time limit: 1s
+  Time limit reached (feasible solution with objValue 3986.18 )
+  Time limit: 10s
+  OPTIMAL solution found with objValue 689.657 with solving time (sec) 8.78971
+  Solution (Tour): 0 76 19 38 23 6 27 56 65 55 7 69 12 43 28 48 51 25 24 46 29 34 68 74 10 1 70 49 57 18 71 53 75 39 77 67 17 58 2 14 5 66 8 33 20 41 45 73 61 60 59 13 21 15 54 44 62 22 16 30 9 64 40 63 36 31 4 3 47 32 26 79 37 35 52 72 42 50 11 78 0
+Processing instance: instance_80_3.dat
+  Time limit: 1s
+  Time limit reached (feasible solution with objValue 3881.54 )
+  Time limit: 10s
+  Time limit reached (feasible solution with objValue 727.108 )
+  Time limit: 20s
+  OPTIMAL solution found with objValue 698.062 with solving time (sec) 11.8106
+  Solution (Tour): 0 32 78 61 59 15 36 63 67 35 45 66 29 37 24 41 9 55 16 75 23 28 10 1 52 42 77 49 38 70 34 7 57 20 69 76 31 5 13 27 44 39 79 72 19 8 30 6 46 21 22 50 65 71 17 48 68 2 18 40 54 64 53 62 58 43 11 47 4 73 33 74 3 12 51 14 25 56 60 26 0
+Processing instance: instance_80_2.dat
+  Time limit: 1s
+  Time limit reached (feasible solution with objValue 3981.76 )
+  Time limit: 10s
+  Time limit reached (feasible solution with objValue 1034.18 )
+  Time limit: 20s
+  Time limit reached (feasible solution with objValue 763.836 )
+  Time limit: 30s
+  Time limit reached (feasible solution with objValue 732.757 )
+  Time limit: 60s
+  OPTIMAL solution found with objValue 718.047 with solving time (sec) 43.6698
+  Solution (Tour): 0 63 10 26 67 68 22 25 34 59 9 6 31 66 12 75 38 3 37 77 8 7 27 73 23 28 18 42 2 39 69 32 50 72 56 55 58 16 19 49 62 14 17 53 71 35 51 36 47 21 79 11 30 60 48 5 61 15 40 78 64 4 52 44 29 43 13 65 1 57 24 70 45 46 33 41 20 74 76 54 0
+Processing instance: instance_80_5.dat
+  Time limit: 1s
+  Time limit reached (feasible solution with objValue 3933.64 )
+  Time limit: 10s
+  Time limit reached (feasible solution with objValue 1032.3 )
+  Time limit: 20s
+  Time limit reached (feasible solution with objValue 1032.3 )
+  Time limit: 30s
+  Time limit reached (feasible solution with objValue 1032.3 )
+  Time limit: 60s
+  Time limit reached (feasible solution with objValue 745.61 )
+  Time limit: 90s
+  OPTIMAL solution found with objValue 701.974 with solving time (sec) 72.1836
+  Solution (Tour): 0 66 20 56 33 71 77 61 46 58 8 68 75 65 38 44 60 1 55 34 49 23 62 73 67 7 32 29 54 39 43 13 70 21 47 59 10 40 2 48 17 5 76 6 11 26 72 69 37 12 50 9 4 3 57 78 79 30 52 28 22 25 35 31 45 27 63 64 16 36 53 51 14 18 42 15 24 74 41 19 0
+Processing instance: instance_80_1.dat
+  Time limit: 1s
+  Time limit reached (feasible solution with objValue 3997.62 )
+  Time limit: 10s
+  Time limit reached (feasible solution with objValue 842.563 )
+  Time limit: 20s
+  Time limit reached (feasible solution with objValue 842.563 )
+  Time limit: 30s
+  Time limit reached (feasible solution with objValue 719.787 )
+  Time limit: 60s
+  Time limit reached (feasible solution with objValue 714.262 )
+  Time limit: 90s
+  OPTIMAL solution found with objValue 712.595 with solving time (sec) 70.0615
+  Solution (Tour): 0 16 6 57 66 33 47 31 22 78 5 27 67 3 54 43 39 59 26 58 20 50 49 73 24 55 2 9 4 30 69 17 37 52 35 25 21 1 76 70 63 42 74 10 32 75 64 41 45 18 71 44 79 28 7 36 77 23 8 56 72 53 11 13 15 65 19 46 48 34 38 68 61 60 51 14 40 12 62 29 0
+andcecch@labta:~/Documents/Ass1$ ./project 100
+Processing instance: instance_100_1.dat
+  Time limit: 1s
+  Time limit reached (feasible solution with objValue 5364.67 )
+  Time limit: 10s
+  Time limit reached (feasible solution with objValue 1568.44 )
+  Time limit: 20s
+  Time limit reached (feasible solution with objValue 1037.75 )
+  Time limit: 30s
+  Time limit reached (feasible solution with objValue 1036.55 )
+  Time limit: 60s
+  Time limit reached (feasible solution with objValue 797.321 )
+  Time limit: 90s
+  Time limit reached (feasible solution with objValue 782.609 )
+  Time limit: 120s
+  Time limit reached (feasible solution with objValue 793.052 )
+  Time limit: 180s
+  OPTIMAL solution found with objValue 757.827 with solving time (sec) 126.424
+  Solution (Tour): 0 48 75 42 23 83 15 85 95 71 60 96 21 64 31 51 90 63 10 49 27 94 14 30 69 26 34 8 53 86 81 3 24 32 25 20 9 82 61 37 93 65 18 67 36 97 41 55 84 58 6 59 28 99 7 17 54 79 39 77 40 11 72 89 35 2 45 50 52 73 16 80 88 70 47 22 91 43 57 74 4 66 68 76 12 1 19 62 44 87 78 33 56 13 46 38 5 98 29 92 0
+Processing instance: instance_100_2.dat
+  Time limit: 1s
+  Time limit reached (feasible solution with objValue 4646.31 )
+  Time limit: 10s
+  Time limit reached (feasible solution with objValue 967.94 )
+  Time limit: 20s
+  Time limit reached (feasible solution with objValue 852.311 )
+  Time limit: 30s
+  Time limit reached (feasible solution with objValue 852.311 )
+  Time limit: 60s
+  Time limit reached (feasible solution with objValue 785.421 )
+  Time limit: 90s
+  OPTIMAL solution found with objValue 785.421 with solving time (sec) 72.0638
+  Solution (Tour): 0 30 89 15 84 43 50 82 75 59 61 98 94 66 62 86 24 85 55 11 64 92 36 13 74 49 76 39 28 99 3 14 27 4 42 80 68 91 45 35 10 65 25 38 52 81 31 87 79 95 18 48 44 6 97 78 77 47 2 17 60 73 88 58 93 19 51 54 26 57 29 9 20 1 70 63 41 71 34 12 22 5 37 53 23 33 72 67 32 7 69 8 21 83 90 46 16 96 40 56 0
+Processing instance: instance_100_5.dat
+  Time limit: 1s
+  Time limit reached (feasible solution with objValue 5051.71 )
+  Time limit: 10s
+  Time limit reached (feasible solution with objValue 1589.43 )
+  Time limit: 20s
+  Time limit reached (feasible solution with objValue 1589.43 )
+  Time limit: 30s
+  Time limit reached (feasible solution with objValue 1559.25 )
+  Time limit: 60s
+  Time limit reached (feasible solution with objValue 786.009 )
+  Time limit: 90s
+  Time limit reached (feasible solution with objValue 782.531 )
+  Time limit: 120s
+  Time limit reached (feasible solution with objValue 782.349 )
+  Time limit: 180s
+  OPTIMAL solution found with objValue 782.349 with solving time (sec) 141.111
+  Solution (Tour): 0 93 40 77 20 49 70 61 48 97 60 17 22 57 44 95 8 92 37 54 51 3 85 66 50 45 25 84 39 7 15 69 27 18 12 73 35 82 64 47 58 71 13 32 55 89 23 53 67 30 75 83 41 56 6 21 2 91 87 90 34 80 11 63 76 94 78 26 46 68 9 81 38 16 99 1 65 86 5 62 28 10 72 42 31 29 14 74 52 59 36 33 96 88 4 98 24 19 79 43 0
+Processing instance: instance_100_4.dat
+  Time limit: 1s
+  Time limit reached (feasible solution with objValue 5106.7 )
+  Time limit: 10s
+  Time limit reached (feasible solution with objValue 2106.58 )
+  Time limit: 20s
+  Time limit reached (feasible solution with objValue 949.091 )
+  Time limit: 30s
+  Time limit reached (feasible solution with objValue 949.091 )
+  Time limit: 60s
+  Time limit reached (feasible solution with objValue 782.471 )
+  Time limit: 90s
+  OPTIMAL solution found with objValue 782.471 with solving time (sec) 69.6847
+  Solution (Tour): 0 37 86 79 7 19 49 64 45 8 74 98 90 6 30 80 3 56 70 35 54 51 41 40 83 25 28 58 38 66 23 95 16 76 89 57 92 24 93 34 97 12 43 11 59 14 94 72 4 5 27 36 88 42 52 68 91 61 33 78 48 22 18 81 60 13 26 2 65 15 46 53 69 39 31 77 47 10 82 29 62 44 87 1 32 73 20 50 67 9 96 55 17 21 75 63 85 71 99 84 0
+Processing instance: instance_100_3.dat
+  Time limit: 1s
+  Time limit reached (feasible solution with objValue 4828.4 )
+  Time limit: 10s
+  Time limit reached (feasible solution with objValue 1158.98 )
+  Time limit: 20s
+  Time limit reached (feasible solution with objValue 1048.68 )
+  Time limit: 30s
+  Time limit reached (feasible solution with objValue 1048.68 )
+  Time limit: 60s
+  Time limit reached (feasible solution with objValue 798.773 )
+  Time limit: 90s
+  Time limit reached (feasible solution with objValue 787.139 )
+  Time limit: 120s
+  OPTIMAL solution found with objValue 786.58 with solving time (sec) 103.612
+  Solution (Tour): 0 66 14 67 79 89 82 62 12 32 5 92 88 87 1 13 75 53 10 78 76 26 15 7 90 30 80 17 9 77 83 72 6 27 28 8 23 39 52 61 18 95 84 69 25 56 68 20 98 2 51 16 44 96 4 50 42 73 38 34 97 94 63 3 70 74 24 31 21 46 22 58 11 37 48 57 33 49 71 40 54 64 93 65 86 85 35 43 19 91 59 99 55 36 81 47 45 60 41 29 0
